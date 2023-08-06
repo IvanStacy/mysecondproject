@@ -1,0 +1,37 @@
+body{
+    background: rgb(234,234,234);
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Playfair Display', serif;
+    font-family: 'REM', sans-serif;    
+}
+.main {
+width: 500px;
+margin: auto;
+}
+.ithems1 {
+    background: white;
+    margin-top: 50px; 
+}
+
+.line2 img {
+    width: 500px;
+}
+.line1 {
+    display: flex;
+    padding: 18px;
+    justify-content: space-between;
+}
+.line3{
+    padding-left: 20px;
+    padding-bottom: 5px;
+    font-size: small;
+}
+.line1 span{
+    color:rgb(189, 188, 188);
+    text-align: right;
+}
+.line1 h2{
+    font-size: medium;
+    margin: 0;
+}
